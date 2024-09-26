@@ -1,0 +1,10 @@
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\obj\Debug\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Grace\source\repos\Monolito4AMPublicar\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
